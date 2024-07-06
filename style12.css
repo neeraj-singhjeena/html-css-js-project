@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 1200px;
+    width: 1500px;
+    background-image: url(images/Acer_Wallpaper_02_3840x2400.jpg);
+
+}
+
+
+.logo{
+    font-size: 35px;
+    font-family: Arial;
+    color: rgb(34, 255, 0);
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.section{
+    
+    float: left;
+    margin: 10px;
+padding-top: 10px;
+padding-left: 20px;
+}
+ul{
+    float: left;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+ul li{
+    color: aliceblue;
+    text-decoration: dotted;
+ list-style: none;
+ margin-left: 35px;
+ font-size: 20px;
+}
+ul li a{
+    color: rgb(204, 210, 216);
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+ul li a:hover{
+    color: rgb(25, 248, 13);
+}
+.search{
+    color: rgb(35, 246, 74);
+    padding-left: 500px;
+    display: flex;
+    font-size: 28px;
+text-align: center;
+
+    justify-content: center;
+
+    
+}
+input{
+    height: 40px;
+    width: 220px;
+
+justify-content: center;
+}
+.bar{
+    padding-left: 10px;
+    
+}
+.bar1{
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+.bar2{
+    border-radius: 1em;
+}
+.leftside{
+    margin-top: 65px;
+    padding: 100px;
+    float: left;
+}
+
+h1{
+    color: aqua;
+}
+h2{
+    color: aliceblue;
+    padding-top: 10px;
+    padding-left: 10px;
+    justify-content: center;
+}
+p{
+    height: 200ox;
+    width: 250px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+.rightside{
+    margin-top: 150px;
+    margin-left: 300px;
+    float: left;
+
+border-radius: 2em;
+    height: 270px;
+    width: 260px;
+    background-color: rgb(11, 161, 192);
+}
+.rightside h1{
+    padding-left: 95px;
+    padding-right: 85px;
+    height: 50px;
+    color: rgb(0, 252, 84);
+    text-align: center;
+    justify-content: center;
+}
+.inbox{
+    margin: 10px;
+    padding-left: 19px;
+
+}
+input{
+    border-radius: 1em;
+}
+.inbox1{
+    width: 60px;
+    height: 30px;
+margin-left: 38%;
+    
+
+}
+hr{
+    margin-top: 10px;
+}

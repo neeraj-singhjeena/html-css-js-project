@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-emphasis: center;
+    flex-direction: column;
+    background-color: rgb(222, 220, 224);
+}
+.container{
+    margin: 10px 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.leftside{
+
+width: 40%;
+}
+.leftside h1{
+    color: blue;
+    font-size: 4em;
+}.leftside h3{
+color: black;
+font-size: 20px;
+}
+.rightside{
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.loginpage{
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: aliceblue;
+}
+.createaccount{
+
+}

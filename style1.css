@@ -1,0 +1,18 @@
+.gallary{
+    display: inline-block;
+    border: 1px solid red;
+    margin: 5px;
+    width: 200px;
+}
+.gallary .discribtion{
+    color: blue;
+    padding: 10px;
+    text-align: center;
+}
+.gallary:hover{
+    border: 1px solid rgb(101, 76, 76);
+}
+.gallary img{
+    width: 100%;
+    height: auto;
+}

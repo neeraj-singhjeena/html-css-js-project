@@ -1,0 +1,31 @@
+
+    .container{
+        border: solid black;
+        height: 90vh;
+        display: flex;
+        align-items: flex-end;
+    }
+    .box{
+        width: 150px;
+        height: 150px;
+        font-size: 8em;
+        text-align: center;
+        border-radius: 15px;
+    }
+#box1{
+    background-color: blue;
+    margin-bottom: 0px;
+
+}
+#box2{
+    background-color: brown;
+    margin-bottom: 0px;
+}
+#box3{
+    background-color: blanchedalmond;
+    margin-bottom: 1px;
+}
+#box4{
+    background-color: rgb(95, 86, 86);
+    padding-bottom: 3px;
+}

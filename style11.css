@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    padding: 40px;
+    color: aliceblue;
+    background-color: rgb(40, 32, 32);
+    text-align: center;
+    justify-content: center;
+}
+.box{
+    text-align: center;
+    justify-content: center;
+height: 100px;
+text-align: center;
+
+}
+p{
+}
